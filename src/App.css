@@ -1,0 +1,17 @@
+
+.h4 {
+  /* width:20px; */
+  color:white;
+  margin-left: 1000px;
+  /* height:20px; */
+  /* margin-top: 5px; */
+  /* padding-top:10px     */
+}
+
+
+Navbar{
+ height: 80px;  
+
+ flex: auto;
+}
+
